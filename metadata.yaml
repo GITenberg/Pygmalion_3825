@@ -1,0 +1,32 @@
+_repo: Pygmalion_3825
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    alias: Shaw, George Bernard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+description: ''
+gutenberg_bookshelf: Plays
+gutenberg_issued: '2003-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3825'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Linguistics teachers -- Drama'
+- !lcc 'PR'
+- !lcsh 'Flower vending -- Drama'
+- !lcsh 'Speech and social status -- Drama'
+- !lcsh 'Comedies'
+- !lcsh 'Social classes -- Drama'
+- !lcsh 'London (England) -- Drama'
+- GITenberg
+title: Pygmalion
+url: http://www.gutenberg.org/ebooks/3825
