@@ -886,10 +886,13 @@ HIGGINS. What's your name?
 
 THE FLOWER GIRL. Liza Doolittle.
 
-HIGGINS [declaiming gravely] Eliza, Elizabeth, Betsy and Bess, They
-went to the woods to get a birds nes': PICKERING. They found a nest
-with four eggs in it: HIGGINS.   They took one apiece, and left three
-in it.
+HIGGINS [declaiming gravely]
+       Eliza, Elizabeth, Betsy and Bess,
+       They went to the woods to get a bird's nes':
+
+PICKERING. They found a nest with four eggs in it:
+
+HIGGINS.   They took one apiece, and left three in it.
 
 They laugh heartily at their own wit.
 
@@ -2964,7 +2967,7 @@ MRS. HIGGINS. If you had told me that Mr. Henry was not in a state it
 would have been more surprising. Tell them to come up when they've
 finished with the police. I suppose he's lost something.
 
-THE PARLOR-MAID. Yes, mam [going].
+THE PARLOR-MAID. Yes, maam [going].
 
 MRS. HIGGINS. Go upstairs and tell Miss Doolittle that Mr. Henry and
 the Colonel are here. Ask her not to come down till I send for her.
@@ -3227,8 +3230,8 @@ HIGGINS [bounding up again] What!
 
 PICKERING [rising also] My dear Mrs. Higgins, she's been telling you
 stories. We didn't treat her brutally. We hardly said a word to her;
-and we parted on particularly good terms. [Turning on Higgins]. Higgins
-did you bully her after I went to bed?
+and we parted on particularly good terms. [Turning on Higgins].
+Higgins: did you bully her after I went to bed?
 
 HIGGINS. Just the other way about. She threw my slippers in my face.
 She behaved in the most outrageous way. I never gave her the slightest
